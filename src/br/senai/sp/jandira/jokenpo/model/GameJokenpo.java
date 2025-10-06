@@ -102,7 +102,7 @@ public class GameJokenpo {
 
 
         }else {
-            System.out.println(" ERRO! Por Favor digitar apenas 1  ou 2!");
+            System.out.println(" *** ERRO! Por Favor digitar apenas 1  ou 2! *** ");
             novoJogo();
 
         }
